@@ -28,3 +28,5 @@ I am committed to pushing updates **every single day** as part of my discipline 
 > 🔁 “1% better every day.”
 
 ---
+
+Projects URL 1 : https://roadmap.sh/projects/single-page-cv
