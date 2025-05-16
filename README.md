@@ -30,3 +30,4 @@ I am committed to pushing updates **every single day** as part of my discipline 
 ---
 
 Projects URL 1 : https://roadmap.sh/projects/single-page-cv
+Projects URL 2 : https://roadmap.sh/projects/basic-html-website
